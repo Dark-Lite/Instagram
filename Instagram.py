@@ -1,1 +1,1 @@
-import inst
+import insta
